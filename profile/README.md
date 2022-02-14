@@ -1,3 +1,4 @@
 # Welcome to Metsvasp 👋
 
-![metavasp banner](https://raw.githubusercontent.com/metavasp/.github/main/profile/banner.png)
+<div align="center">
+<img src="https://github.com/MetaVASP/.github/blob/main/profile/banner.png" alt="metavasp logo" height ="auto" width="200" />
