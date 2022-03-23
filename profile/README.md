@@ -1,6 +1,6 @@
 <div align="center">
   
-# Welcome to MetsVASP 👋
+# Welcome to MetaVASP 👋
   
 </div>
 
